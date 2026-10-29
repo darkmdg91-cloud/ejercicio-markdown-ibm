@@ -55,4 +55,4 @@ for puesto, jugador in podio_2026.items():
 
 ## Mi instituto
 
-![Mi instituto en Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/REEMPLAZA_ESTA_URL.jpg)
+![Mi instituto en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:I.e.s._clara_del_rey_(Prosperidad,_Madrid).jpg)
